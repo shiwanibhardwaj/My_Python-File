@@ -13,9 +13,8 @@ def evenOdd(l):
 
 
 n = []
-c = True
-while (c):
-    a = int(input("enter anything: "))
+while (True):
+    a = int(input("enter numbers: "))
     if a == 0:
         break
     n.append(a)

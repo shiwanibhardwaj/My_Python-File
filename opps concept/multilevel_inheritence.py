@@ -51,3 +51,4 @@ print(laptop.name)
 # method resolution order.
 
 help(Smartphone)          #it will show method resolution order.
+

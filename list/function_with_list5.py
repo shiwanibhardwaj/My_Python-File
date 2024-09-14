@@ -4,16 +4,14 @@ def commonElements(l, n):
 
 
 l = []
-c = True
-while (c):
+while (True):
     a = input("enter numbers for first list: ")
     if a == "0":
         break
     l.append(a)
 
 n = []
-c = True
-while (c):
+while (True):
     a = input("enter numbers for second list: ")
     if a == "0":
         break
@@ -31,16 +29,14 @@ def commonElements(l, n):
 
 
 l = []
-c = True
-while (c):
+while (True):
     a = input("enter numbers for first list: ")
     if a == "0":
         break
     l.append(a)
 
 n = []
-c = True
-while (c):
+while (True):
     a = input("enter numbers for second list: ")
     if a == "0":
         break
